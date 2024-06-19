@@ -5,16 +5,6 @@
  <h1 style="margin: 20 auto;">Data Analyst, Mechanical Engineer, PMP</h1>
 </div>
 
-<div align="center" style="font-size: 12px;">Data Analyst, Mechanical Engineer, PMP</div>
-
-
-<h1 style="text-align: center; font-size: 12px; margin: 20px auto;">Data Analyst, Mechanical Engineer, PMP</h1>
-
-<div align="center" style="font-size: 50px;">Data Analyst, Mechanical Engineer, PMP</div>
-
-
-<p align="center" style="font-size: 24px;">Data Analyst, Mechanical Engineer, PMP</p>
-
 <h3 align="center">Data Analyst, Mechanical Engineer, PMP</h3>
 
 
