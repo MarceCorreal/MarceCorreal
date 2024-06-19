@@ -5,7 +5,9 @@
  <h1 style="margin: 20 auto;">Data Analyst, Mechanical Engineer, PMP</h1>
 </div>
 
-<h1 style="margin: 20 auto;">Data Analyst, Mechanical Engineer, PMP</h1>
+<div align="center" style="font-size: 8px;">Data Analyst, Mechanical Engineer, PMP</div>
+
+
 </div>
 
 
