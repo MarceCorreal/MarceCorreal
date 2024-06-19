@@ -3,7 +3,7 @@
 </div>
 
 </div>
-<h6 align="center" style="font-size: 24px;">Data Analyst, Mechanical Engineer, PMP</h6>
+<h6 align="center" style="font-size:34px;">Data Analyst, Mechanical Engineer, PMP</h6>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcecorreal&label=Profile%20views&color=0e75b6&style=flat" alt="marcecorreal" /> </p>
