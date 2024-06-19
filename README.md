@@ -10,7 +10,7 @@
 
 <h1 style="text-align: center; font-size: 12px; margin: 20px auto;">Data Analyst, Mechanical Engineer, PMP</h1>
 
-<div align="center" style="font-size: 12px;">Data Analyst, Mechanical Engineer, PMP</div>
+<div align="center" style="font-size: 50px;">Data Analyst, Mechanical Engineer, PMP</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcecorreal&label=Profile%20views&color=0e75b6&style=flat" alt="marcecorreal" /> </p>
