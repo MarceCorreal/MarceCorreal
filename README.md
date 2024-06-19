@@ -8,7 +8,7 @@
 
 
 
-<div align="center" style="font-size:34px;">Data Analyst, Mechanical Engineer, PMP</div>
+<div align="center" style="font-size:50px;">Data Analyst, Mechanical Engineer, PMP</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcecorreal&label=Profile%20views&color=0e75b6&style=flat" alt="marcecorreal" /> </p>
