@@ -2,6 +2,12 @@
   <h1 style="margin: 0 auto;">Hi! I´m Marcela Correal</h1>
 </div>
 
+ <h1 style="margin: 30 auto;"">Data Analyst, Mechanical Engineer, PMP</div>
+</div>
+
+
+
+
 <div align="center" style="font-size:34px;">Data Analyst, Mechanical Engineer, PMP</div>
 
 
