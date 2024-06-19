@@ -4,7 +4,7 @@
 
 
 
-<h5 align="center">Data Analyst, Mechanical Engineer, PMP</h5>
+<h2 align="center">Data Analyst, Mechanical Engineer, PMP</h2>
 
 
 
