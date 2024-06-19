@@ -13,11 +13,12 @@
 <div align="center" style="font-size: 50px;">Data Analyst, Mechanical Engineer, PMP</div>
 
 
+<p align="center" style="font-size: 24px;">Data Analyst, Mechanical Engineer, PMP</p>
 
 
 
 
-<div align="center" style="font-size: 24px;">Data Analyst, Mechanical Engineer, PMP</div>
+
 
 
 
